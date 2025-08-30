@@ -7,4 +7,5 @@ COPY . /usr/share/nginx/html
 # Expose port 80
 EXPOSE 80
 
+
 # Use the default command for the nginx:stable-alpine image: "nginx -g 'daemon off;'"
